@@ -11,11 +11,11 @@ Genymotion is apparently pretty good, so I’m giving that a shot.
 
 Here’s how to do it.
 
-Download and Install VirtualBox
+h2. Download and Install VirtualBox
 
 Download VirtualBox + follow instructions to install.
 
-Signup with Genymotion + Download installer
+h3. Signup with Genymotion + Download installer
 
 Go to genymotion.com and signup
 
