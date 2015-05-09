@@ -11,17 +11,17 @@ Genymotion is apparently pretty good, so I’m giving that a shot.
 
 Here’s how to do it.
 
-#Download and Install VirtualBox
+## Download and Install VirtualBox
 
 Download VirtualBox + follow instructions to install.
 
-#Signup with Genymotion + Download installer
+## Signup with Genymotion + Download installer
 
 Go to genymotion.com and signup
 
 Click the “Get Genymotion” button and download the appropriate version for your OS.
 
-#Run the Genymotion application
+## Run the Genymotion application
 
 It will install Genymotion and Genmotion shell — run the Genymotion application (not the shell).
 
@@ -46,7 +46,7 @@ I started VirtualBox manually
 I retried running the virtual device, this time it worked and I saw
 Screenshot
 
-#Configure Android Studio plugin
+## Configure Android Studio plugin
 
 Go to Preferences / Plugins and click “Browse Repositories”, then search for Genymotion. Right click and choose “Download and Install”.
 
@@ -64,7 +64,7 @@ Now if you click the Genymotion icon again, you will see the list of devices ava
 
 Screenshot
 
-#Start an emulator
+## Start an emulator
 
 Click the Genymotion icon within Android studio, select a virtual device, and hit start.
 
@@ -78,7 +78,7 @@ Screenshot
 
 Select a virtual device, and hit start (again). It should come up now.
 
-# Deploy an application/test to that emulator
+## Deploy an application/test to that emulator
 
 In Android Studio, hit the “Play” or “Debug” button, and you should see the dialog that asks you to choose an emulator:
 
